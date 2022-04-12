@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/NubyEngine/Voyd-Checker/main/itemvalues.txt
